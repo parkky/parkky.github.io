@@ -1,0 +1,2 @@
+# LICENSE
+CC BY-SA
